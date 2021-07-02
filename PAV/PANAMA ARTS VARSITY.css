@@ -1,0 +1,193 @@
+
+*{
+    margin: 0;
+
+        
+}    
+
+/*
+@media only screen and (min-width:320px) and (max-width:480px){
+}
+*/
+
+    
+/*RAYA DE HOME*/
+    .rayita{
+        width: 100%;
+        height: 28.2px; 
+        color: #1A0420; 
+        background: #380b44; 
+        padding: 3px 0px; 
+    }
+    /*LOGO DE PAV*/
+    .logo{
+        margin-left: 15px;
+    }
+    /*NAVBAR*/
+    .collapse{
+        margin-left: 1180px;
+
+    }
+    .nav-link{
+        margin: 14px;
+    }
+    /*HOME IMAGE*/
+    .home-hero{
+        width: 100%;
+        height: 990px;
+        margin-top: -15px;
+        display: block;
+        
+    }
+    .navbar{
+        color: #555555;
+        background: #00000080;
+        z-index: 1;
+    }
+
+    /*NOMBRE HOME*/
+    /*.nombre{
+        background: rgb(231, 225, 225);
+        opacity: 80%;
+        padding-bottom: 80px ;
+        left:1000px;
+        top:100px;
+        z-index: 2;
+    }*/
+    .info_nombre{
+        width: 100%;
+        font-size: 55px;
+        border: solid black;
+
+
+    }
+    .home-hero-image{
+        background: url("home_si.jpg") no-repeat fixed;
+        width: 100%;
+        height: 100vh;
+    }
+    .fondo{
+        background: rgb(218, 214, 228);
+        width: 35%;
+        height: 100vh;
+        opacity: 80%;
+        margin-left: auto;
+    }
+    .container_2{
+        background:#380b44;
+        height: 50vh;
+        color: white;
+    }
+    h2{
+        text-align: center;
+        margin: auto;
+        height: 30px;
+        font-size: 140%;
+    }
+    p{
+        text-align: center;
+        margin: 0px auto;
+        width: 50%;
+        font-size: 120%;
+        font-family: 'Lora', serif;
+    }
+    h2{
+        padding: 120px;
+        font-family: 'Cinzel', serif;
+    }
+    .fondo_carrusel{
+        background:#380b44;
+
+    }
+    /*PALABRAS PRIMERAS*/
+
+    h1{
+        size: 30px;
+        margin: 0px auto;
+        font-family: 'Cinzel', serif;
+    }
+    .slogan{
+        width: 50%;
+        font-size: 24px;
+        font-family: 'Lora', serif;
+    }
+    h1{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;  
+        padding-top: 400px;  
+    }
+    .fondo_mv{
+        background:url("desi.jpeg") no-repeat fixed;
+        width: 100%;
+        height: 100vh;
+        margin: center;
+        background-size: 100%;
+    }
+    /*FRASEEEE*/
+
+    .card{
+        margin-right: 20px;
+        display: block;
+        margin-right: 35px;
+        float: left;
+
+    }
+    .card2{
+        margin-left: 20px;
+        display: block;
+        margin-left: 35px;
+        float: right;
+        background-color:rgb(255, 255, 255) ;
+        border-radius: 2px;
+    }
+
+    .card-body{
+        text-align: center  !important;
+    }
+    .card-text{
+        font-family: 'Lora', serif;
+    }
+    h5{
+        font-family: 'Cinzel', serif;
+    }
+
+
+
+    footer{
+        background-color: rgb(110, 42, 110);
+        width: 100%;
+        padding: 90px;
+    }
+    .img-footer{
+        width: 15px;
+        height: 15px;
+    }
+
+    .img-footer1{
+        width: 20px;
+        height: 20px;
+    }
+
+    .pafooter{
+        color: white;
+        size: 15px;
+        float: right;
+        margin-right: 1150px;
+    }
+
+    .pafooter1{
+        color: white;
+        size: 15px;
+        float: right;
+        margin-right: 1125px;
+    }
+
+    /*QUOTE*/
+    .quote{
+        padding-top: 120px;
+    }
+    .quote_2{
+        padding-top: 80px;
+        padding-bottom: 50px;
+}

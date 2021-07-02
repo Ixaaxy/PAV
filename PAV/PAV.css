@@ -1,0 +1,66 @@
+*{ 
+    margin: 0px; 
+} 
+
+
+.navbar{ 
+    display: block; 
+    margin-top: -15px; 
+    width: 100%; 
+} 
+.nav-link, .navbar-brand{
+    color:white !important;
+}
+
+.div1{ 
+    width: 100%; 
+    height: 28.2px; 
+    color: #1A0420; 
+    background: #1A0420; 
+    padding: 3px 0px; 
+
+}    
+
+ 
+ 
+
+.container-fluid{ 
+    width: 1360px; 
+    height: 114px; 
+    color: #555555; 
+    background: #00000080; 
+    opacity: 80%; 
+
+} 
+
+
+ 
+
+.home-hero-image{ 
+    width: 1360px; 
+    height: 114px; 
+    margin-top: -90px; 
+    display: block; 
+
+} 
+
+ 
+ 
+
+.home-video{ 
+    width: 1360px; 
+    height: 600px; 
+    background: #000000; 
+    margin-bottom: -114px; 
+} 
+
+ 
+ 
+
+.container-fluid{ 
+    color: #555555; 
+    font-size: 15px; 
+    margin-left: 600px; 
+} 
+
+ 

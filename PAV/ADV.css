@@ -1,0 +1,25 @@
+.titulo-adv{
+    background:#380b44;
+    height: 31vh;
+    color: white;
+    text-align: center;
+}
+h1{
+    padding: 110px;
+}
+h1{
+    font-family: 'Cinzel', serif;
+
+}
+h5{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: black !important;
+
+}
+.card-title{
+    font-size: 35px;
+}
+#link{
+    color: black !important;
+}

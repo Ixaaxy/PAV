@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+}
+
+    body{
+    background-color: rgb(241, 204, 241);
+    background-size: cover;
+
+}
+/*Info about our news*/
+.container{
+    height: 349px;
+    width: 100%;
+    background-color: rgb(112, 27, 112);
+    color: white;
+    text-align: center ;
+    font-family: Arial;
+}
+/*.container_news{
+    height: 349px;
+}
+.u{
+    background-color: tomato;
+}
+.p-1{
+    padding: 0px;
+    background-color: inherit;
+}*/
+.table_info{
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+}
+.table_info2{
+    text-align: right;
+
+}
+.table_info3{
+    text-align: left;
+}
