@@ -1,0 +1,37 @@
+.fondoca{
+    background:#380b44;
+    height: 29vh;
+    font-family: 'Cinzel', serif;
+    color: white;
+    text-align: center;
+
+}
+h1{
+    padding-top: 100px;
+}
+hr{
+    padding:4px;
+    width: 20%;
+    margin-inline: auto;
+}
+.careers{
+    font-family: 'Lora', serif;
+
+}
+
+.tituloc{
+    font-family: 'Lora', serif solid;
+    background-color: none;
+    text-align: center;
+    padding-top: 12px;
+
+}
+.accordion-body{
+    font-family: Bebas Neue;
+    font-size: 20px;
+    color: rgb(124, 43, 124);
+}
+.accordion-header{
+    font-size: 40px !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
